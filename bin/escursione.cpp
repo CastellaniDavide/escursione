@@ -29,8 +29,8 @@ queue < pair <int, int> > q;
 int main()
 {
     // Cncomment the following lines if you want to read/write from files
-    freopen("escursione_input_1.txt", "r", stdin);
-    freopen("escursione_output_1.txt", "w", stdout);
+    freopen("escursione_input_2.txt", "r", stdin);
+    freopen("escursione_output_2.txt", "w", stdout);
 
     // Input
     cin >> T;
